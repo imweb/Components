@@ -13,7 +13,11 @@ Components used in project.
 
 +	**Base**
 
-	+	[simple]
+	+	[simple](https://github.com/imweb/Components/tree/master/base/Simple)
+
+	+	[jquery](https://github.com/jquery/jquery)
+
+	+	[zepto](https://github.com/madrobby/zepto)
 	
 +	**Common**
 

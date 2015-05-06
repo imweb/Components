@@ -1,0 +1,20 @@
+{
+  "name": "imweb-Simple",
+  "version": "1.0.0",
+  "description": "imweb-Simple，A JavaScript Library",
+  "main": "lib/simple.js",
+  "scripts": {
+    "test": "lib/simple.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imweb/Components/tree/master/base/Simple"
+  },
+  "keywords": [
+    "Simple",
+    "javascript",
+    "library"
+  ],
+  "author": "imweb",
+  "license": "MIT"
+}
