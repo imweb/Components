@@ -5,9 +5,9 @@ Components used in project.
 
 ## Components List
 
-+	###Base
++	###	Base
 	+	[simple]
 	
-+	###Common
++	###	Common
 	+	[imweb-badjs](https://github.com/imweb/Components/tree/master/common/imweb-badjs)
 	+	[imweb-report](https://github.com/imweb/Components/tree/master/common/imweb-report)
