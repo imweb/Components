@@ -3,6 +3,12 @@ Components used in project.
 
 ## User IMWEB
 
+## Specification
+
+#####[Components Specification](https://github.com/webryan/lego.imweb.io/blob/master/docs/STANDARD.md)
+
+#####[Platform Specification](https://github.com/webryan/lego.imweb.io/blob/master/docs/PLATFORM-STANDARD.md)
+
 ## Components List
 
 +	**Base**
