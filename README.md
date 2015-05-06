@@ -5,4 +5,4 @@ Components used in project.
 
 ## Components List
 
--	[imweb-badjs]("https://github.com/imweb/Components/tree/master/imweb-badjs")
+	1. [imweb-badjs](https://github.com/imweb/Components/tree/master/imweb-badjs)
