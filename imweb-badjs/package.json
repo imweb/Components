@@ -1,6 +1,6 @@
 {
   "name": "imweb-badjs",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "report with badjs based on simple!",
   "main": "index.js",
   "scripts": {
