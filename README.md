@@ -4,5 +4,7 @@ Components used in project.
 ## User IMWEB
 
 ## Components List
-
-	1. [imweb-badjs](https://github.com/imweb/Components/tree/master/imweb-badjs)
+	+	###Base
+		+	[simple]
+	+	###Common
+		+	[imweb-badjs](https://github.com/imweb/Components/tree/master/common/imweb-badjs)
