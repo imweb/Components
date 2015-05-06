@@ -1,0 +1,37 @@
+{
+  "name": "imweb-report",
+  "version": "0.1.6",
+  "description": "report to tdw width cgi;you can report one data at least;if you have some question;please contact herbertliu",
+  "main": "index.js",
+  "scripts": {
+    "test": "report.tdw()"
+  },
+  "keywords": [
+    "imweb"
+  ],
+  "author": {
+    "name": "herbertliu"
+  },
+  "license": "\"\"",
+  "_id": "imweb-report@0.1.5",
+  "_shasum": "30775bfacee963e86d106767020483f5478d024b",
+  "_from": "imweb-report@",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "herbertliu",
+    "email": "herbertliuhb@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "herbertliu",
+      "email": "herbertliuhb@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "30775bfacee963e86d106767020483f5478d024b",
+    "tarball": "http://registry.npmjs.org/imweb-report/-/imweb-report-0.1.5.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/imweb-report/-/imweb-report-0.1.5.tgz",
+  "readme": "ERROR: No README data found!"
+}

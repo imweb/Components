@@ -8,3 +8,4 @@ Components used in project.
 	+	[simple]
 +	###Common
 	+	[imweb-badjs](https://github.com/imweb/Components/tree/master/common/imweb-badjs)
+	+	[imweb-report](https://github.com/imweb/Components/tree/master/common/imweb-report)

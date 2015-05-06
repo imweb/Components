@@ -1,0 +1,27 @@
+{
+  "name": "Components",
+  "version": "1.0.0",
+  "description": "IMWEB Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imweb/Components"
+  },
+  "keywords": [
+    "Components",
+    "IMWEB"
+  ],
+  "dependencies": {
+        "imweb-badjs": "*"
+      , "imweb-report": "*"
+  },
+  "author": "herbertliu IMWEB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imweb/Components/issues"
+  },
+  "homepage": "https://github.com/imweb/Components"
+}
