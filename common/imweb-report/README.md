@@ -1,4 +1,5 @@
-/**
+Report
+================
  * @author herbertliu
  * @date 2014-02-25 version 0.2 last modified by herbertliu 2014-04-14
  * @description TDW数据上报
@@ -8,4 +9,3 @@
  *			table {String} 可选，上报数据表，默认群业务table=dc00141
  * @example report.config(params[,args][,table])//设置公共项目,参数同report.tdw
  * @example report.toreport() //立上报
- */
