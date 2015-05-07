@@ -31,7 +31,7 @@ Components used in project.
 
 	+	**[Mobile](https://github.com/imweb/mobile)**
 
-		+	fisComponents(https://github.com/imweb/mobile/tree/master/src/fisComponents)
+		+	[fisComponents](https://github.com/imweb/mobile/tree/master/src/fisComponents)
 
 	+	**PC**
 
