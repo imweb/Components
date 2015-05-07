@@ -7,7 +7,7 @@ npm install imweb-report
 ```
 ##Api
 
- * @author herbertliu
+ * @author [herbertliu](https://github.com/herbertliu)
  * @date 2014-02-25 version 0.2 last modified by herbertliu 2014-04-14
  * @description TDW数据上报
  * @example report.tdw(params[,args][,table]) //支持单条上报和多条上报

@@ -7,7 +7,7 @@ npm install imweb-badjs
 ```
 ##Api
 
- * @author herbertliu
+ * @author [herbertliu](https://github.com/herbertliu)
  * @date 2013-02-25 version 0.2.3
  * @description badjs上报
  * @param msg {String} 上报错误信息

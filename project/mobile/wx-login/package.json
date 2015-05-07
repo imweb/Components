@@ -1,0 +1,19 @@
+{
+  "name": "wx-login",
+  "version": "1.0.0",
+  "description": "login with weixin by auto.",
+  "main": "lib/login.js",
+  "scripts": {
+    "test": "lib/login.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imweb/Components/tree/master/project/mobile/wx-login"
+  },
+  "keywords": [
+    "weixin",
+    "login"
+  ],
+  "author": "herbertliuhb@gmail.com",
+  "license": "MIT"
+}
