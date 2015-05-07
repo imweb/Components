@@ -33,6 +33,8 @@ Components used in project.
 
 		+	[fisComponents](https://github.com/imweb/mobile/tree/master/src/fisComponents)
 
+		+	[wx-login](https://github.com/imweb/Components/tree/master/project/mobile/wx-login)
+
 	+	**PC**
 
 	+	**Mixing**
