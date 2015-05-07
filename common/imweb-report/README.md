@@ -1,5 +1,12 @@
 Report
 ================
+
+## Install
+```html
+npm install imweb-report
+```
+##Api
+
  * @author herbertliu
  * @date 2014-02-25 version 0.2 last modified by herbertliu 2014-04-14
  * @description TDW数据上报

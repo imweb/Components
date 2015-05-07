@@ -1,5 +1,12 @@
-Simple
+Badjs
 ================
+
+## Install
+```html
+npm install imweb-badjs
+```
+##Api
+
  * @author herbertliu
  * @date 2013-02-25 version 0.2.3
  * @description badjs上报
