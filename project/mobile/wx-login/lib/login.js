@@ -1,10 +1,11 @@
-var T = require('common/tools.ext') , $ = require('zepto') ,
+var T = require('common/tools.bom') , $ = require('zepto') ,
     mmticket , isLoading , myTask , _Storage = window.localStorage , getmmticket;
 
 //weixin will put mmticket into page's location when you location in the white list
 (getmmticket = function (){
 	if(typeof(mmticket) == 'undefined'){
-		mmticket =  T.bom.get('mmticket') || '';
+		mmticket =  T.bom.query('mmticket') || '';//https://github.com/imweb/mobile/blob/master/src/tools/tools.bom.js
+		
 		//put the mmtikect into localStorage for page location that weixin dosn't have query params mmtikect to page
 //		if(mmticket){
 //			_Storage && _Storage.setItem('wxlogin-mmticket' , mmticket);
