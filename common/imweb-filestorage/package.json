@@ -1,0 +1,27 @@
+{
+  "name": "imweb-filestorage",
+  "version": "1.0.0",
+  "description": "imweb filestorage",
+  "main": "src/fileStorage.js",
+  "scripts": {
+    "test": "src/fileStorage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imweb/Components/tree/master/common/imweb-filestorage"
+  },
+  "keywords": [
+    "imweb",
+    "filestorage"
+  ],
+  "author": {
+    "name": "aaronou,herbertliu"
+  },
+  "license": "MIT",
+  "readme": "# imweb-filestorage\nfilestorage\n\n## install\n```html\nnpm install-imweb-filestorage\n```\n\n## API\n\n * fileStorage.js\n * v0.1.0 - 2014-07-27\n * written by Aaron Ou\n *\n * FileStorage.load(url, opts)\n *  url - String\n *  opts - object(optional)\n *      expire - Number(in seconds) - 1814400(as 21 days) - the time length the file should be storage\n *      execute - Boolean - true - whether execute the script once it's loaded\n *      noCache - Boolean - false - do not use cache\n *      refresh - Boolean - false - refresh the storage\n *      cors - Boolean - false - whether add crossorigin attribute to script tag if it comes to use script tag to load the file\n *      cb - Function - function(err, info){} - callback once it's done\n *          err - Event - null - if there is an error, it will not be null\n *          opts - Object\n *              time - Number(in microseconds) - the time spend on loading the script\n *              from - where this script coming from, its value and meaning is written at FileStorage.FROM\n *              url - String - the url you request\n *\n * FileStorage.clear()\n *      just clear all localStorage\n *\n * FileStorage.config(opts)\n *      configure default settings for FileStorage, should be call before FileStorage.load\n *      opts - Object\n *          timeout - Number(in microseconds) - 30000(as 30s) - ajax timeout for fetching\n *          expire - Number(in seconds) - 1814400(as 21 days) - the time length the file should be storage\n *          clearExpireTimeout - Number(in microseconds) - 10000(as 10s) - when to try clearing the expire file\n *\n *\n * FileStorage.FROM\n *      return Object\n *          File: 'file' // means loaded from regular script tag with src\n *          STORAGE: 'storage' // means loaded from localStorage\n *          FETCH: 'fetch' // means loaded from ajax call\n",
+  "readmeFilename": "README.md",
+  "gitHead": "73e288c60fe9854d88a2aeb100cef5ca27652cde",
+  "_id": "imweb-filestorage@1.0.0",
+  "_shasum": "45fe52471a50e442f5c8360430c87244239b74c2",
+  "_from": "imweb-filestorage@"
+}

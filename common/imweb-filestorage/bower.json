@@ -1,0 +1,16 @@
+{
+    "name": "imweb-filestorage",
+    "version": "1.0.0",
+    "main": "dist/filestorage.js",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "src",
+        "tasks",
+        "*.md",
+        "Gruntfile.js",
+        "package.json"
+    ],
+    "keywords": [
+    ]
+}
