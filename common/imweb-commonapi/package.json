@@ -1,0 +1,43 @@
+{
+  "name": "imweb-commonapi",
+  "version": "0.3.8",
+  "description": "public interface for commonapi, if you want to know more, you can click [here](http://platform.server.com/commonapi/website/index.html \"view commonapi\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "Commonapi.run()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "commonapi",
+    "imweb",
+    "interface"
+  ],
+  "author": {
+    "name": "herbertliu"
+  },
+  "license": "simple",
+  "_id": "imweb-commonapi@0.3.8",
+  "dist": {
+    "shasum": "242d4d135c4d0ab877bd512ec029e8b1e83c190c",
+    "tarball": "http://registry.npmjs.org/imweb-commonapi/-/imweb-commonapi-0.3.8.tgz"
+  },
+  "_from": "imweb-commonapi@",
+  "_resolved": "https://registry.npmjs.org/imweb-commonapi/-/imweb-commonapi-0.3.8.tgz",
+  "_shasum": "a5900a011c6905217cdfd7f099b1189e8206bd52",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "herbertliu",
+    "email": "herbertliuhb@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "herbertliu",
+      "email": "herbertliuhb@gmail.com"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
